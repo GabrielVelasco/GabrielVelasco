@@ -1,6 +1,4 @@
-- 👋 Just doing some stuff for me/community/bubble and some other stuff just to get some money...
-- 👀 A little confused...
-- 👀 Eye emoji
+- 👀 Eye
 
 <!---
 GabrielVelasco/GabrielVelasco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
